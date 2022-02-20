@@ -2,7 +2,7 @@
 Neural Network Classification on Bike sharing dataset using Tensorflow
 
 ## Dataset
-[Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
+[GET Dataset](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 ### Attribute Information:
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 - instant: Record index
